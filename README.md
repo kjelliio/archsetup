@@ -1,1 +1,2 @@
-# dotfiler:)
+# dotfiler
+$HOME/.config
