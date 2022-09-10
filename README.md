@@ -1,2 +1,2 @@
 # dotfiler 
-$HOME/.config NB installer packer,nvim-tree for nvim og oh-my-zsh for terminalen
+$HOME/.config NB installer packer,nvim-tree for NVIM 0.7+ ikke eldre! og oh-my-zsh for terminalen
